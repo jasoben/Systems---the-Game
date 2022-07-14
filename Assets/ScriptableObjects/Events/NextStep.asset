@@ -9,7 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d3c35abe9d7262748ba2323eea0b86f7, type: 3}
-  m_Name: CurrentStep
+  m_Script: {fileID: 11500000, guid: 8ca8c911218ccb544bc1f76c339d86bf, type: 3}
+  m_Name: NextStep
   m_EditorClassIdentifier: 
-  value: 1

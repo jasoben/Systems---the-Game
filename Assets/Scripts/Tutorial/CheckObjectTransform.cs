@@ -18,7 +18,6 @@ public class CheckObjectTransform : MonoBehaviour
     [SerializeField]
     Axis axis;
 
-
     // Start is called before the first frame update
     void Start()
     {
